@@ -108,7 +108,7 @@ Other documentation related to CDS APIs:
 
 •	[CDS 02 Inventory Linking Imports Service Design](https://github.com/Richard-A-Wall/customs-declarations-end-to-end-service-guide/blob/master/source/documentation/CDS%2002%20Inventory%20Linking%20Imports%20Service%20Design%20v2.2%20180706%20BW.pdf)
 
-•	[Tariff_Data_Export.pdf]()
+•	[Tariff_Data_Export.pdf](https://github.com/Richard-A-Wall/customs-declarations-end-to-end-service-guide/blob/master/source/documentation/Tariff_Data_Export.pdf)
 
 •	[DispatchDataExport-XML-Data.xsd]()
 
