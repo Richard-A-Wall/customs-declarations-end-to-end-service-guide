@@ -106,7 +106,7 @@ Other documentation related to CDS APIs:
 
 •	[CDS 01 ILE Technical Completion Matrix](https://github.com/Richard-A-Wall/customs-declarations-end-to-end-service-guide/blob/master/source/documentation/CDS%2001%20ILE%20Technical%20Completion%20Matrix%20v2.1%20190430%20DF.XLSX)
 
-•	[CDS 02 Inventory Linking Imports Service Design]()
+•	[CDS 02 Inventory Linking Imports Service Design](https://github.com/Richard-A-Wall/customs-declarations-end-to-end-service-guide/blob/master/source/documentation/CDS%2002%20Inventory%20Linking%20Imports%20Service%20Design%20v2.2%20180706%20BW.pdf)
 
 •	[Tariff_Data_Export.pdf]()
 
