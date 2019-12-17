@@ -114,7 +114,7 @@ Other documentation related to CDS APIs:
 
 •	[ECDP-Tariff Web services documentation (Annex IV)](https://github.com/Richard-A-Wall/customs-declarations-end-to-end-service-guide/blob/master/source/documentation/Annex-IV-extraction-elements-1.8.5.pdf)
 
-•	[Taric User Guide]()
+•	[Taric User Guide](https://github.com/Richard-A-Wall/customs-declarations-end-to-end-service-guide/blob/master/source/documentation/TARIC%20User%20Guide%20Revision%202.pdf)
 
 •	[CDS – Tariff Download service -Identifying Duty Rates v1.0]()
 
