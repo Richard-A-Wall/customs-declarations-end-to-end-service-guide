@@ -116,8 +116,7 @@ Other documentation related to CDS APIs:
 
 •	[Taric User Guide](https://github.com/Richard-A-Wall/customs-declarations-end-to-end-service-guide/blob/master/source/documentation/TARIC%20User%20Guide%20Revision%202.pdf)
 
-•	[CDS – Tariff Download service -Identifying Duty Rates v1.0]()
-
+•	[CDS – Tariff Download service -Identifying Duty Rates v1.0](https://github.com/Richard-A-Wall/customs-declarations-end-to-end-service-guide/blob/master/source/documentation/CDS%20-%20Tariff%20Download%20Service%20-Identifying%20Duty%20Rates%20v1.0.docx.pdf)
 
 
 Errors
