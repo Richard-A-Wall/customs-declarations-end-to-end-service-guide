@@ -110,7 +110,7 @@ Other documentation related to CDS APIs:
 
 •	[Tariff_Data_Export.pdf](https://github.com/Richard-A-Wall/customs-declarations-end-to-end-service-guide/blob/master/source/documentation/Tariff_Data_Export.pdf)
 
-•	[DispatchDataExport-XML-Data.xsd]()
+•	[DispatchDataExport-XML-Data.xsd](https://github.com/Richard-A-Wall/customs-declarations-end-to-end-service-guide/blob/master/source/documentation/DispatchDataExport-XML-Data.xsd)
 
 •	[ECDP-Tariff Web services documentation (Annex IV)]()
 
