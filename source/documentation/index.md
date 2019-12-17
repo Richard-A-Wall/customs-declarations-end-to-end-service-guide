@@ -99,19 +99,33 @@ Other APIs related to the CDS APIs:
 •	[Bulk Data File List (list of tariff codes)](https://developer.service.hmrc.gov.uk/api-documentation/docs/api/service/secure-data-exchange-bulk-download/1.0)
 
 Other documentation related to CDS APIs:
-•	Inventory Tariff
-•	CDS 01 Inventory Linking Exports Service Design
-•	CDS 01 ILE Technical Completion Matrix 
-•	CDS 02 Inventory Linking Imports Service Design 
-•	Tariff_Data_Export.pdf
-•	DispatchDataExport-XML-Data.xsd
-•	ECDP-Tariff Web services documentation (Annex IV)
-•	Taric User Guide 
-•	CDS – Tariff Download service -Identifying Duty Rates v1.0
+
+•	[Inventory Tariff](https://docs.google.com/document/d/1UgbLY0M4ZzxVUjuJT0UEfGFz3mC3d7xT/edit)
+
+•	[CDS 01 Inventory Linking Exports Service Design](https://github.com/Richard-A-Wall/customs-declarations-end-to-end-service-guide/blob/master/source/documentation/CDS%2001%20Inventory%20Linking%20Exports%20Service%20Design%20v1%206%20190702%20BW.DOCX.pdf)
+
+•	[CDS 01 ILE Technical Completion Matrix](https://drive.google.com/drive/u/1/folders/0B4I25nhXLAXzcUpZQWZOalNETDg
+
+•	[CDS 02 Inventory Linking Imports Service Design]()
+
+•	[Tariff_Data_Export.pdf]()
+
+•	[DispatchDataExport-XML-Data.xsd]()
+
+•	[ECDP-Tariff Web services documentation (Annex IV)]()
+
+•	[Taric User Guide]()
+
+•	[CDS – Tariff Download service -Identifying Duty Rates v1.0]()
+
 
 
 Errors
-Errors specific to each API are shown in the Endpoints section, under Response. See our reference guide for more on errors.
+
+Errors specific to each API are shown in the Endpoints section, under Response. 
+
+See our reference guide for more on errors.
+
 Specific CDS backend errors: CDS 03 Codelists and WCO References.
 
 
