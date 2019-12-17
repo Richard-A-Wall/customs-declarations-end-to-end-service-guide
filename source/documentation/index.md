@@ -104,7 +104,7 @@ Other documentation related to CDS APIs:
 
 •	[CDS 01 Inventory Linking Exports Service Design](https://github.com/Richard-A-Wall/customs-declarations-end-to-end-service-guide/blob/master/source/documentation/CDS%2001%20Inventory%20Linking%20Exports%20Service%20Design%20v1%206%20190702%20BW.DOCX.pdf)
 
-•	[CDS 01 ILE Technical Completion Matrix](https://drive.google.com/drive/u/1/folders/0B4I25nhXLAXzcUpZQWZOalNETDg
+•	[CDS 01 ILE Technical Completion Matrix](https://github.com/Richard-A-Wall/customs-declarations-end-to-end-service-guide/blob/master/source/documentation/CDS%2001%20ILE%20Technical%20Completion%20Matrix%20v2.1%20190430%20DF.XLSX)
 
 •	[CDS 02 Inventory Linking Imports Service Design]()
 
