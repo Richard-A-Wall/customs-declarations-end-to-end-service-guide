@@ -1,12 +1,8 @@
----
-title: Customs Declarations End-to-End Service Guide
-weight: 1
-description: Software developers, designers, product owners or business analysts. Integrate your software with Customs Declarations.
----
 
-# Customs Declarations End-to-End service guide
 
-Version 1.0 issued 16 December 2019
+# Customs Declarations Service end-to-end service guide
+
+Version 0.9 December 2019
 ***
 
 This guide explains how you can integrate your software with our APIs to submit Customs Declarations. It shows how the APIs fit into various end-to-end user journeys. It is intended to help software developers, designers, product owners or business analysts understand how your software needs to interact with HMRC systems.
