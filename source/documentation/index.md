@@ -37,17 +37,17 @@ To use these APIs you must:
 
 •	[Have an appropriate HMRC online account (opens in a new tab)](https://www.gov.uk/log-in-register-hmrc-online-services)
 
-•	Have an Economic Operator Registration and Identification (EORI) number
+•	[Have an Economic Operator Registration and Identification (EORI) number](https://www.gov.uk/eori).
 
-•	Be registered for CDS
+•	[Be registered for CDS](https://www.gov.uk/government/collections/customs-handling-of-import-and-export-freight-chief-replacement-programme)
 
-•	Go to developer hub to call an API
+•	[Go to developer hub to call an API](https://developer.service.hmrc.gov.uk/api-documentation/docs/api)
 
 •	Have a working understanding of HTTP
 
-•	Have a working understanding of OAuth2
+•	[Have a working understanding of OAuth2](https://www.gov.uk/guidance/uk-trade-tariff-volume-3-customs-declaration-service-imports#user-authorisation-oauth2)
 
-•	Have a working knowledge of RESTful services
+•	[Have a working knowledge of RESTful services](https://www.gov.uk/guidance/uk-trade-tariff-volume-3-customs-declaration-service-imports#api-authorisation-models)
 
 •	Have a working knowledge of XML
 
@@ -100,7 +100,7 @@ Other APIs related to the CDS APIs:
 
 Other documentation related to CDS APIs:
 
-•	[Inventory Tariff](https://docs.google.com/document/d/1UgbLY0M4ZzxVUjuJT0UEfGFz3mC3d7xT/edit)
+•	[Inventory Tariff](https://github.com/hmrc/customs-declarations-end-to-end-service-guide/blob/master/source/documentation/Archive.zip)
 
 •	[CDS 01 Inventory Linking Exports Service Design](https://github.com/Richard-A-Wall/customs-declarations-end-to-end-service-guide/blob/master/source/documentation/CDS%2001%20Inventory%20Linking%20Exports%20Service%20Design%20v1%206%20190702%20BW.DOCX.pdf)
 
@@ -118,29 +118,33 @@ Other documentation related to CDS APIs:
 
 •	[CDS – Tariff Download service -Identifying Duty Rates v1.0](https://github.com/Richard-A-Wall/customs-declarations-end-to-end-service-guide/blob/master/source/documentation/CDS%20-%20Tariff%20Download%20Service%20-Identifying%20Duty%20Rates%20v1.0.docx.pdf)
 
+## Errors
 
-Errors
+Errors specific to each API are shown in the Endpoints section, under Response.
 
-Errors specific to each API are shown in the Endpoints section, under Response. 
+See our [reference guide](https://developer.service.hmrc.gov.uk/api-documentation/docs/reference-guide#errors) for more on errors.
 
-See our reference guide for more on errors.
-
-Specific CDS backend errors: CDS 03 Codelists and WCO References.
-
+Specific CDS backend errors: [CDS 03 Codelists and WCO References](https://github.com/hmrc/customs-declarations-end-to-end-service-guide/blob/master/source/documentation/Annex-IV-extraction-elements-1.8.5.pdf).
 
 
-The schemas for V1 of Customs Declarations are: [1.0](api/conf/1.0/wco-declaration-schemas.zip).
-
-The schemas for V2 of Customs Declarations are: [2.0](api/conf/2.0/wco-declaration-schemas.zip).
-
-The schemas for V3 of Customs Declarations are: [3.0](api/conf/3.0/wco-declaration-schemas.zip).
 
 ## Changelog
 <!--- Section owner: Customs Declarations --->
 
-### Version 1.0
+### Version 0.9
 
-3 July 2019
+December 2019
 
 What changed:
+
+What changed:
+•	Restructuring of content following meeting with SDST (3 December 2019)
+
+•	Links to reference material
+
+•	Removal of duplicated information
+
+•	Addition of extra overview information and pre-requisites
+
+•	Addition of Notifications information from “CDS Push Notifications Destinations” John Best 7 November 2019
 
