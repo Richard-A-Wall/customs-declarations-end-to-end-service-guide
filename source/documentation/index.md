@@ -143,4 +143,3 @@ What changed:
 •	Addition of extra overview information and pre-requisites
 
 •	Addition of Notifications information from “CDS Push Notifications Destinations” John Best 7 November 2019
-
